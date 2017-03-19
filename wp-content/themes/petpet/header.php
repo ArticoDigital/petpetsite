@@ -10,7 +10,7 @@
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,500,500i,700,700i,900,900i" rel="stylesheet">
-    <link rel="shortcut icon" href="<?php bloginfo('template_url') ?>/assets/images/favicon.ico">
+    <link rel="shortcut icon" href="<?php bloginfo('template_url') ?>/assets/img/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Caveat+Brush" rel="stylesheet">
     <link rel="stylesheet" href="<?php bloginfo('template_url') ?>/assets/css/main.min.css">
