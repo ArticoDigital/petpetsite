@@ -106,7 +106,7 @@
 
                 this is the LCD monitor. LCD monitors have them
             </h3>
-            <ul class="row Header-storeLinks">
+            <ul class="row Header-storeLinks center">
                 <li class=" row between middle">
                     <svg width="35px" height="40px" viewBox="25 11 35 40" version="1.1"
                          xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
