@@ -66,16 +66,6 @@
                 </svg>
             </li>
             <li>
-                <svg width="30px" height="25px" viewBox="118 2 30 25" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                     xmlns:xlink="http://www.w3.org/1999/xlink">
-                    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
-                    <desc>Created with Sketch.</desc>
-                    <defs></defs>
-                    <path d="M144.465931,5.95269375 C145.737274,5.17262625 146.712806,3.93572 147.172382,2.462265 C145.982044,3.18453938 144.66666,3.71000438 143.261497,3.99169125 C142.141578,2.76561875 140.540931,2 138.769501,2 C135.372779,2 132.617004,4.8259275 132.617004,8.31093938 C132.617004,8.80570563 132.669838,9.28602375 132.775486,9.74828875 C127.660148,9.484655 123.125904,6.9747175 120.088394,3.15203813 C119.55838,4.0873925 119.255493,5.17262625 119.255493,6.32827938 C119.255493,8.51679 120.341957,10.4488963 121.993664,11.5810794 C120.98645,11.5503806 120.03556,11.2632675 119.204433,10.7937925 L119.204433,10.8714313 C119.204433,13.9303031 121.326282,16.4817637 124.143684,17.059585 C123.627746,17.2076525 123.083637,17.2816862 122.521923,17.2816862 C122.125728,17.2816862 121.738327,17.2437681 121.363266,17.1697344 C122.146862,19.6760575 124.418381,21.5016288 127.112511,21.5503806 C125.006511,23.2441344 122.351119,24.2535225 119.468563,24.2535225 C118.972004,24.2535225 118.480709,24.2246262 118,24.1668431 C120.724075,25.9544962 123.960559,27 127.434757,27 C138.757179,27 144.94664,17.3846163 144.94664,9.0440575 C144.94664,8.76959 144.941356,8.4951225 144.930789,8.22607188 C146.133468,7.335865 147.177666,6.22534938 148,4.95955625 C146.897686,5.46154188 145.710857,5.80101188 144.465931,5.95269375 Z"
-                          id="Fill-2" stroke="none" fill="#FFFFFF" fill-rule="evenodd"></path>
-                </svg>
-            </li>
-            <li>
                 <svg width="28px" height="28px" viewBox="161 -1 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg"
                      xmlns:xlink="http://www.w3.org/1999/xlink">
                     <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
@@ -98,14 +88,13 @@
             <img src="<?php bloginfo('template_url') ?>/assets/img/app.png" alt="">
         </figure>
         <div class="Header-hGroup self-center">
-            <h1>Inscribite para recibir información</h1>
+            <h1>Comunidad PetPet</h1>
+            <h2>Petpet es un club de mascotas que aman a sus humanos.</h2>
             <h3>
-                There are advances being made in science and
-
-                technology everyday, and a good example of
-
-                this is the LCD monitor. LCD monitors have them
+                Registra a tu mascota en Petpet y encontrarás rápidamente y cerca de ti, juguetes, accesorios y veterinarias. Si no tienes, o estás buscando una mascota, podrás adoptarla; además de encontrar a tu mascota perdida, o buscarle una pareja; todo para que tu mascota sea más feliz.
             </h3>
+
+            <h4>Muy pronto podrás descargar nuestra app.</h4>
             <ul class="row Header-storeLinks center">
                 <li class=" row between middle">
                     <svg width="35px" height="40px" viewBox="25 11 35 40" version="1.1"
@@ -136,11 +125,4 @@
 
 
 <main>
-    <section class="Advanages">
-        <h2>Tus ventajas <span>Por ingresar tu mascota a PetPet</span></h2>
-        <div class="row center">
-            <article class="col-5">asdasd</article>
-            <article class="col-5">asdasd</article>
-            <article class="col-5">asdasd</article>
-        </div>
-    </section>
+

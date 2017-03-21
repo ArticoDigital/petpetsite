@@ -3,8 +3,10 @@
 .Header
   background: $blue
   color: white
-  padding: 0 rem(10)
+  padding: 0 rem(25)
   min-height: 100vh
+  @include respond-to(medium)
+    padding: 0
 .Header-nav
   max-width: $container
   margin: auto
@@ -16,23 +18,44 @@
   margin: auto
   @include respond-to(medium)
     height: calc(100vh - 156px)
-
+    margin: rem(-50) auto rem(40)
   h1
-    font-size: rem(48)
+    font-size: rem(35)
     color: white
     text-align: left
     max-width: rem(456)
-    margin: rem(30) auto rem(28)
+    margin: rem(30) auto 0
+    @include respond-to(medium)
+      font-size: rem(48)
+
+  h2
+    margin: rem(8) auto rem(12)
+    max-width: 28.5rem
+    color: #FBD45C
+    font-weight: 300
+    font-size: rem(19)
+    @include respond-to(medium)
+      font-size: rem(25)
+      margin: rem(6) auto rem(22)
 
   h3
     color: white
-    font-size: rem(20)
+    font-size: rem(16)
     text-align: left
     max-width: rem(456)
     font-weight: 300
-    line-height: rem(40)
-    margin: 0 auto rem(42)
+    line-height: rem(24)
+    margin: 0 auto rem(10)
+    @include respond-to(medium)
+      font-size: rem(18)
+      line-height: rem(32)
+      margin: 0 auto rem(38)
 
+  h4
+    font-size: rem(20)
+    margin: 0
+    color: #fbd45c
+    font-weight: 300
   figure
     max-width: rem(270)
 .Header-hGroup
@@ -70,5 +93,11 @@
       display: block
       font-size: .7em
       margin: rem(16)
-      color: #AAABAF
-      font-weight: 200
+      color: #636363
+      font-weight: 300
+  h3
+    font-size: rem(22)
+    color: #338ade
+    font-weight: 300
+  img
+    max-width: rem(270)
