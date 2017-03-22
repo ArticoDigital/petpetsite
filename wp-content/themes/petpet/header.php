@@ -56,7 +56,7 @@
         </svg>
         <ul class="  row center">
             <li>
-                <a href="https://www.facebook.com/petpet.comunidad">
+                <a href="https://www.facebook.com/petpet.comunidad" target="_blank">
                 <svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg"
                      xmlns:xlink="http://www.w3.org/1999/xlink">
                     <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
@@ -68,7 +68,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.instagram.com/petpet_club1/">
+                <a href="https://www.instagram.com/petpet_club1/" target="_blank">
                 <svg width="28px" height="28px" viewBox="161 -1 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg"
                      xmlns:xlink="http://www.w3.org/1999/xlink">
                     <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
@@ -133,4 +133,3 @@
 
 
 <main>
-
