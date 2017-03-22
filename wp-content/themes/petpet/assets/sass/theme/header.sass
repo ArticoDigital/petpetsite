@@ -121,18 +121,27 @@
     font-size: rem(18)
     color: #FFFFFF
     border: none
-    margin-left: rem(18)
-    width: rem(210)
+
+
     height: rem(54)
     box-shadow: none
+    width: 90%
+    margin-top: rem(20)
 
-
-
+    @include respond-to(mediun)
+      width: rem(210)
+      margin-top: 0
+      margin-left: rem(18)
 
   input[type="email"]
     padding: rem(5) rem(23)
-    width: rem(450)
+    width: 90%
     height: rem(54)
     border: none
     background: rgb(255, 255, 255)
     color: black
+    @include respond-to(medium)
+      width: rem(450)
+
+  .div.wpcf7-validation-errors
+    color: white
