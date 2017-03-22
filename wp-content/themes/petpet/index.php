@@ -42,12 +42,13 @@
         </div>
     </section>
 
-<?php
-if (have_posts()) :
-    while (have_posts()) :
-        the_post();
-        the_content();
-    endwhile;
-endif;
-?>
+
+<?php global $post;
+$my_query = new WP_Query('category_name=contacto&showposts=1'); ?>
+<?php while ($my_query->have_posts()) : $my_query->the_post(); ?>
+    <section class="Contact" style="background-image: url( <?php get_the_post_thumbnail_url(); ?> );">
+        <?php the_content() ?>
+    </section>
+<?php endwhile; wp_reset_postdata(); ?>
+
 <?php get_footer();?>
