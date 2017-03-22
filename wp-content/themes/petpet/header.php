@@ -7,7 +7,7 @@
     <title> <?php the_title(); ?> </title>
 
     <meta name="description" content="<?php bloginfo('description'); ?>"/>
-
+    <meta name="google-site-verification" content="kK9BXiWNLKqKWOPPP8r9tcUng5HxD0su5p7BusJyjAA" />
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,500,500i,700,700i,900,900i" rel="stylesheet">
     <link rel="shortcut icon" href="<?php bloginfo('template_url') ?>/assets/img/favicon.ico">
